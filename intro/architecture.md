@@ -1,5 +1,6 @@
 # 技术架构
-![架构](image/jiagou.jpg)
+![架构](/image/jiagou.jpg)
+
 
 
 
