@@ -13,6 +13,7 @@
   - [技术架构](/cpc/intro/architecture.md)
 - 购买指南
   - [计费规则](/cpc/buy/charge.md)
+  - [欠费规则](/cpc/buy/recycle.md)
 - [操作指南](/cpc/guide/guide.md)
 - [最佳实践](/cpc/bestpractice/bestpractice.md)
 
