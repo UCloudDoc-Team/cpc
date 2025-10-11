@@ -1,5 +1,5 @@
 
-
+- [概览](/cpc/README.md)
 - 动态与公告
   
   - [新功能发布记录](/cpc/newfunctions/newfunctions.md)
@@ -12,6 +12,4 @@
   - [技术架构](/cpc/intro/architecture.md)
 - 购买指南
   - [计费规则](/cpc/buy/charge.md)
-- [操作指南](/cpc/guide/guide.md)
-- [最佳实践](/cpc/bestpractice/bestpractice.md)
 
