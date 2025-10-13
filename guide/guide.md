@@ -8,9 +8,10 @@
 进入控制台，点击【全部产品】-【混合组网】-【云下资源接入】，进入产品页面。
 
 在【物理连接】tab页面，可见到该地域所有物理连接资源详情：
-![](/image/wulilianjie.png)
+![物理连接](/images/wulilianjie.png)
 在【虚拟端口】tab页面，可见到该地域所有虚拟端口资源详情，包括监控：
-![](/image/xuniduankou.png)
+![虚拟端口](/images/xuniduankou.png)
+
 
 
 
