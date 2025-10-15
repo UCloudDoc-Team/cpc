@@ -13,7 +13,6 @@
   - [技术架构](/cpc/intro/architecture.md)
 - 购买指南
   - [计费规则](/cpc/buy/charge.md)
-  - [欠费规则](/cpc/buy/recycle.md)
 - [操作指南](/cpc/guide/guide.md)
   * [虚拟端口](/cpc/guide/virtualport.md)
   * [物理连接](/cpc/guide/physicalconnection.md)
